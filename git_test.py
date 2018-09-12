@@ -1,2 +1,2 @@
 print ("Hello git")
-print ("thang nhat tre trau")
+print ("thang viet anh la thang tre trau")
