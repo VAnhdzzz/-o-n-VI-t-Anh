@@ -16,6 +16,6 @@ while loop:
     else:
         print ("may tinh doan la: ",computer_number) 
         print ("so ban be hon ")
-    if i>2:
+    if i>8:
         print("may tinh da het luot doan\nGame over\nban thang")
         loop = False
