@@ -1,0 +1,113 @@
+#root{
+    background-color: antiquewhite;
+    /* background-image: url("https://images.pexels.com/photos/875858/pexels-photo-875858.png?cs=srgb&dl=dawn-sky-bird-875858.jpg&fm=jpg");
+    background-size: cover; */
+
+}
+#see-more{
+    background-color: tomato;
+    color: white;
+    font-size: 30px;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.center{            
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+
+}
+.content{
+    height: 950px;
+    width: 50%;
+    background-color: lightblue;
+    
+}
+.mother{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    
+}
+.content-child{
+    width: 99%;
+    height: 200px;
+
+    
+}
+
+.content-child2{
+    width: 99%;
+    height: 480px;
+}
+
+.border{
+    border: 3px solid;
+    border-radius: 10px;
+
+}
+.img{
+    width: 5%;
+    height: 90px;
+    position: absolute;
+    margin-top:9px;
+    margin-left: 5px;
+    border:3px solid ;
+    border-radius: 10px;
+    display: block;
+}
+.shaped{
+    box-sizing: border-box;
+    padding-left: 50px;
+    font-size: 20px;
+    padding-bottom: 5px;
+
+}
+.word{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Mali', cursive;
+}
+.from{
+    font-size: 16px;
+}
+.name{
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+.chat-symbol{
+    width: 2%;
+    height: 35px;
+    position: absolute;
+    margin-top:3px;
+    margin-left: 8px;
+    border:1px solid ;
+    border-radius: 10x;
+    display: block;
+}
+.comment{
+    box-sizing: border-box;
+    padding-left: 55px;
+    font-size: 20px;
+    padding-top: 10px;
+    font-family: 'Concert One', cursive;    
+}
+.mt-5px{
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.your-own-comment{
+  height:  75px; 
+  width: 85%;
+  border: 1px solid;
+  border-radius: 10px;
+  background-color: white;
+  margin-left: 60px;
+  padding-left: 10px;
+}
+.content-child3{
+    height: 250px;
+}
+
