@@ -1,11 +1,11 @@
 #root{
-    background-color: #EEEEEE
+    background-color: antiquewhite;
     /* background-image: url("https://images.pexels.com/photos/875858/pexels-photo-875858.png?cs=srgb&dl=dawn-sky-bird-875858.jpg&fm=jpg");
     background-size: cover; */
 
 }
 #see-more{
-    background-color: #5EC9FA;
+    background-color: tomato;
     color: white;
     font-size: 30px;
     border: 1px solid;
@@ -18,9 +18,9 @@
 
 }
 .content{
-    height: 825px;
+    height: 950px;
     width: 50%;
-    background-color: white;
+    background-color: lightblue;
     
 }
 .mother{
@@ -31,21 +31,20 @@
     
 }
 .content-child{
-    width: 100%;
+    width: 99%;
     height: 200px;
 
     
 }
 
 .content-child2{
-    width: 100%;
-    height: 380px;
+    width: 99%;
+    height: 480px;
 }
 
 .border{
-    border-top: 1px groove;
-    border-bottom: 1px groove;
-    
+    border: 3px solid;
+    border-radius: 10px;
 
 }
 .img{
@@ -77,7 +76,6 @@
     font-weight: bold;
     font-family: 'Lobster', cursive;
     font-size: 30px;
-    color: #5CB6E9;
 }
 .chat-symbol{
     width: 2%;
@@ -94,31 +92,21 @@
     padding-left: 55px;
     font-size: 20px;
     padding-top: 10px;
-    font-family: 'Concert One', cursive;
-    color: #5CB6E9; 
+    font-family: 'Concert One', cursive;    
 }
 .mt-5px{
     margin-top: 15px;
     margin-bottom: 10px;
 }
 .your-own-comment{
-  height:  70px; 
+  height:  75px; 
   width: 85%;
-  border: 1px groove;
-  margin-top: 10px;
-  
+  border: 1px solid;
+  border-radius: 10px;
   background-color: white;
   margin-left: 60px;
   padding-left: 10px;
 }
 .content-child3{
-    height: 150px;
-}
-
-.EEEEEE{
-    background-color:  #F7F7F7;
-    height: 20px;
-}
-.white{
-    color: black;
+    height: 250px;
 }
